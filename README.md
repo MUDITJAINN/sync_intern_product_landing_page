@@ -1,10 +1,10 @@
-# iPhone 15 Product Webpage | Hacktoberfest 2023
+# iPhone 15 Product Webpage | Hacktoberfest 2024
 
 ![Hacktoberfest Logo](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--green.dd2bc4ca.svg)
 
 ## Overview
 
-Welcome to the official repository for our **iPhone 15 Product Webpage**, created in celebration of **Hacktoberfest 2023**. This project highlights the latest iPhone model, providing detailed product information, images, and a seamless purchasing experience. Whether you're contributing to the project or just exploring the product, this README will guide you through every aspect.
+Welcome to the official repository for our **iPhone 15 Product Webpage**, created in celebration of **Hacktoberfest 2024**. This project highlights the latest iPhone model, providing detailed product information, images, and a seamless purchasing experience. Whether you're contributing to the project or just exploring the product, this README will guide you through every aspect.
 
 ## Key Features
 
